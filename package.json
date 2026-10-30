@@ -1,0 +1,1 @@
+{"name":"le-comptoir-des-nuages","version":"0.1.0","private":true,"scripts":{"test":"node --test tests/*.test.cjs","check":"node --check docs/engine.js && node --check docs/game.js","preview":"node scripts/serve.cjs"}}
